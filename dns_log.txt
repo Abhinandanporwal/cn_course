@@ -1,0 +1,2 @@
+DNS Query Results for openai.com
+A, MX, and CNAME records resolved successfully.
